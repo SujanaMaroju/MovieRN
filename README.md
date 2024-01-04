@@ -2,6 +2,7 @@
 
 ## Get Started
 
+
 install dev dependencies
 
 ### `npm install`
@@ -26,9 +27,9 @@ Like `npm start` / `yarn start`, but also attempts to open your app in the iOS S
 
 #### `npm run android`
 
-Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
+Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools 
 
-<br />
+
 
 
 
